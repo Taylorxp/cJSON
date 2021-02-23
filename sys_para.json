@@ -1,0 +1,30 @@
+{
+    "para version": "191026",
+    "product info": {
+        "model": "k1b",
+        "brief": "camera control unit.",
+        "serial number": "12001909290001"
+    },
+    "system info": {
+        "hardware version": "1.0",
+        "software version": "1.0.0",
+        "boot version": "1.0.0",
+        "kernel version": "1.0.0",
+        "rootfs version": "1.0.0",
+        "daemon version": "1.0.0",
+        "app version": "1.0.0"
+    },
+    "network": [
+        {
+            "mac": "10:20:30:40:50:60",
+            "dhcp": "off",
+            "ip": "192.168.1.223",
+            "mask": "255.255.255.0",
+            "gateway": "192.168.1.1",
+            "dns": [
+                "192.168.1.1",
+                "192.168.1.1"
+            ]
+        }
+    ]
+}
